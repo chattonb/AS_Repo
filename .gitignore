@@ -1,4 +1,9 @@
-AS_Project/Temp/
+AS_Project/Binaries/
 *.set
 *.isopen
 AS_Project/Diagnosis/
+AS_Project/Temp/Hardware.jpg
+AS_Project/Temp/Includes/
+AS_Project/Temp/Objects/
+AS_Project/Temp/Settings/
+AS_Project/Temp/Transfer/
